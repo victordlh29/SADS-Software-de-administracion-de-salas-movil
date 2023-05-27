@@ -1,0 +1,12 @@
+{
+    "expo": {
+      "android": {
+        "config": {
+          "extra": {
+            "androidCleartextNetworking": true
+          }
+        }
+      }
+    }
+  }
+  
